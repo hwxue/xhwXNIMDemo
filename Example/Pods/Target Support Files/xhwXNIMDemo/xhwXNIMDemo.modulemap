@@ -1,0 +1,6 @@
+framework module xhwXNIMDemo {
+  umbrella header "xhwXNIMDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

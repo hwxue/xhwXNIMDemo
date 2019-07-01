@@ -1,0 +1,6 @@
+framework module Pods_xhwXNIMDemo_Tests {
+  umbrella header "Pods-xhwXNIMDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
